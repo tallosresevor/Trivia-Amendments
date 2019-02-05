@@ -9,9 +9,9 @@ html, body, #app, div[data-reactroot] {
 body {
   width: 100%;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 9px;
-  background: rgba(47, 0, 255, 0.63);
-  color: #222;
+  font-size: 14px;
+  background: rgb(60, 125, 35);
+  color: rgb(220, 230, 255);
   margin: 0;
   padding: 0;
   overflow-y: scroll;
@@ -19,7 +19,7 @@ body {
 
 h1 {
   font-weight: normal;
-  font-size: 2.25em;
+  font-size: 3.25em;
   text-transform: uppercase;
   letter-spacing: -1px;
   text-align: center;
@@ -71,12 +71,12 @@ code {
 }
 
 .score, .question-number {
-  font-size: 4em;
-  font-weight: 100;
+  font-size: 5em;
+  font-weight: 400;
 }
 
 .description {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 .questions {
@@ -172,16 +172,16 @@ code {
 
 @keyframes shake {
   10%, 90% {
-    transform: translateX(-1px);
+    transform: translateX(-50px);
   }
   20%, 80% {
-    transform: translateX(1px);
+    transform: translateX(50px);
   }
   30%, 50%, 70% {
-    transform: translateX(-2px);
+    transform: translateX(-75px);
   }
   45%, 55% {
-    transform: translateX(2px);
+    transform: translateX(75px);
   }
 }
 
@@ -189,7 +189,7 @@ code {
   font-size: 5em;
   text-align: center;
   width: 100%;
-  background: rgb(252, 235, 148);
+  background: rgba(113, 103, 245, 0.520);
   padding: 5%;
   will-change: transform;
   transform: scale(4);
@@ -250,13 +250,16 @@ code {
   }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
   body {
     font-size: 14px;
   }
 
   h1 {
-    font-size: 3em;
+    font-size: 6em;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    
   }
 
   header {

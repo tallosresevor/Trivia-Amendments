@@ -11,8 +11,7 @@ const QUESTION_DATA = [
       <span>They were each adopted in the 1800s.</span>
     ],
     correct: 2
-  },
-  {
+  },{
     //Question 2, Correct answer is A
     question: <span>The Seventeenth Amendment provides that senators are elected:</span>,
     answers: [
@@ -22,8 +21,7 @@ const QUESTION_DATA = [
       <span>By the House of Representatives.</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 3, Correct answer is B
     question: <span>Which of the following is a key provision of the Fourteenth Amendment?</span>,
     answers: [
@@ -33,8 +31,7 @@ const QUESTION_DATA = [
       <span>It explains that people who fought for the South in the Civil War will never be allowed to hold office in the United States.</span>
     ],
     correct: 1
-  },
-  {
+  },{
     //Question 4, Correct answer is A
     question: <span>The Fourteenth Amendment guarantees:</span>,
     answers: [
@@ -44,8 +41,7 @@ const QUESTION_DATA = [
       <span>The same rights as those named in the Fifth Amendment.</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 5, Correct answer is D
     question: <span>A person may be elected to no more than two terms in a row as President, according to
     which amendment?</span>,
@@ -56,8 +52,7 @@ const QUESTION_DATA = [
       <span>22nd Amendment</span>
     ],
     correct: 3
-  },
-  {
+  },{
     //Question 6, Correct answer is A
     question: <span>You can infer from the Twenty-third Amendment that:</span>,
     answers: [
@@ -68,8 +63,7 @@ const QUESTION_DATA = [
       <span>The people in Washington, DC, did not care if they could vote for President or not.</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 7, Correct answer is C
     question: <span>In 1974, President Richard Nixon resigned from office. Which amendment explains what
     action had to be taken after that?</span>,
@@ -80,8 +74,7 @@ const QUESTION_DATA = [
       <span>26th Amendment</span>
     ],
     correct: 2
-  },
-  {
+  },{
     //Question 8, Correct answer is D
     question: <span>What is the correct sequence of these events: 
       <div>a. passage of the Twenty-first Amendment</div>
@@ -96,8 +89,7 @@ const QUESTION_DATA = [
       <span>B, C, A, D</span>
     ],
     correct: 3
-  },
-  {
+  },{
     //Question 9, Correct answer is A
     question: <span>Which statement reflects a positive view of the Sixteenth Amendment?</span>,
     answers: [
@@ -107,8 +99,7 @@ const QUESTION_DATA = [
       <span>One positive result of Reconstruction is the end of slavery.</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 10, Correct answer is A
     question: <span>Poll taxes were outlawed by the Twenty-fourth Amendment:</span>,
     answers: [
@@ -118,8 +109,7 @@ const QUESTION_DATA = [
       <span>During Reconstruction.</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 11, Correct answer is B
     question: <span>The fourteenth amendment said that all people born in the United States and under its rule are...</span>,
     answers: [
@@ -129,8 +119,7 @@ const QUESTION_DATA = [
       <span>Illegal</span>
     ],
     correct: 1
-  },
-  {
+  },{
     //Question 12, Correct answer is A
     question: <span>The eleventh amendment says that states can't be sued by __________ government.</span>,
     answers: [
@@ -140,8 +129,7 @@ const QUESTION_DATA = [
       <span>Citizens</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 13, Correct answer is C
     question: <span>The seventeenth amendment allows the direct election of ________.</span>,
     answers: [
@@ -151,8 +139,7 @@ const QUESTION_DATA = [
       <span>None of the above.</span>
     ],
     correct: 2
-  },
-  {
+  },{
     //Question 14, Correct answer is D
     question: <span>In what year was the last amendment added to the constitution?</span>,
     answers: [
@@ -162,8 +149,7 @@ const QUESTION_DATA = [
       <span>1992</span>
     ],
     correct: 3
-  },
-  {
+  },{
     //Question 15, Correct answer is A
     question: <span>How many changes have been made to the constitution?(Amendments)</span>,
     answers: [
@@ -173,8 +159,7 @@ const QUESTION_DATA = [
       <span>22 Changes</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 16, Correct answer is B
     question: <span>Which amendment states the Inaguaration Day of the President?</span>,
     answers: [
@@ -184,8 +169,7 @@ const QUESTION_DATA = [
       <span>22nd Amendment</span>
     ],
     correct: 1
-  },
-  {
+  },{
     //Question 17, Correct answer is B
     question: <span>Which amendment deals with income tax laws?</span>,
     answers: [
@@ -195,10 +179,9 @@ const QUESTION_DATA = [
       <span>18th Amendment</span>
     ],
     correct: 1
-  },
-  {
+  },{
     //Question 18, Correct answer is B
-    question: <span>This amendment dictates the process of electing President and Vice President?</span>,
+    question: <span>This amendment explains the process of electing President and Vice President?</span>,
     answers: [
       <span>11th Amendment</span>,
       <span>12th Amendment</span>,
@@ -206,8 +189,7 @@ const QUESTION_DATA = [
       <span>14th Amendment</span>
     ],
     correct: 1
-  },
-  {
+  },{
     //Question 19, Correct answer is C
     question: <span>This amendment gives women the right vote.</span>,
     answers: [
@@ -217,8 +199,7 @@ const QUESTION_DATA = [
       <span>20th Amendment</span>
     ],
     correct: 2
-  },
-  {
+  },{
     //Question 20, Correct answer is C
     question: <span>This amendment ended slavery in all states.</span>,
     answers: [
@@ -228,8 +209,7 @@ const QUESTION_DATA = [
       <span>14th Amendment</span>
     ],
     correct: 2
-  },
-  {
+  },{
     //Question 21, Correct answer is B
     question: <span>This amendment sets the date and time in which the current President's term is over.</span>,
     answers: [
@@ -239,8 +219,7 @@ const QUESTION_DATA = [
       <span>26th Amendment</span>
     ],
     correct: 1
-  },
-  {
+  },{
     //Question 22, Correct answer is A
     question: <span>What is an IIFE?</span>,
     answers: [
@@ -250,8 +229,7 @@ const QUESTION_DATA = [
       <span>21st Amendment</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 23, Correct answer is C
     question: <span>This amendment grants citizenship for people of all races and people</span>,
     answers: [
@@ -261,8 +239,7 @@ const QUESTION_DATA = [
       <span>15th Amendment</span>
     ],
     correct: 2
-  },
-  {
+  },{
     //Question 24, Correct answer is A
     question: <span>This amendment allows people to elect Senators for their states</span>,
     answers: [
@@ -272,8 +249,7 @@ const QUESTION_DATA = [
       <span>20th Amendment</span>
     ],
     correct: 0
-  },
-  {
+  },{
     //Question 25, Correct answer is C
     question: <span>This amendment gives voting rights to colored people</span>,
     answers: [
